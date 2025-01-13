@@ -16,4 +16,4 @@ rig-core = "0.6.0"
 serde = "1.0.217"
 serde_json = "1.0.134"
 tokio = { version = "1.42.0", features = ["full"] }
-uuid = "1.11.0"
+uuid = "1.11.1"
